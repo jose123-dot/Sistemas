@@ -1,0 +1,22 @@
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\bin\Debug\Registro.exe.config
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\bin\Debug\Registro.exe
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\bin\Debug\Registro.pdb
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\bin\Debug\Registro.xml
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.vbprojResolveAssemblyReference.cache
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.Form2.resources
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.Resources.resources
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.vbproj.GenerateResource.Cache
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.exe
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.xml
+C:\Users\Alba Cuevas\AppData\Local\Temporary Projects\Registro\obj\Debug\Registro.pdb
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\bin\Debug\Registro.xml
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.Form2.resources
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.FrmAsignatura.resources
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.Resources.resources
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.vbproj.GenerateResource.Cache
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.xml
+C:\Users\Alba Cuevas\Documents\Visual Studio 2015\Projects\Registro\Registro\obj\Debug\Registro.pdb
